@@ -5,16 +5,16 @@ O software desenvolvido chamado de Dianome Delivery faz requisições para contr
 
 Os atributos da entidade são: 
 
-cpf;
-name;
-vehicleCapacity;
+cpf;<br />
+name;<br />
+vehicleCapacity;<br />
 
 Para subir o projeto, basta rodar o *DeliveryApplication.java*.
 
 Localhost do projeto: localhost:8080/delivery/
 
-Banco de dados utilizado: PostgreSQL\n
-Para criação do banco de dados, é necessário criar uma database *delivery* com um usuário de login: admin e senha: admin\n 
+Banco de dados utilizado: PostgreSQL<br />
+Para criação do banco de dados, é necessário criar uma database *delivery* com um usuário de login: admin e senha: admin<br />
 
 Caso deseje alterar, fazer alterações no arquivo application.properties
 

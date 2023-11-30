@@ -15,6 +15,7 @@ Localhost do projeto: localhost:8080/delivery/
 
 Banco de dados utilizado: PostgreSQL
 Para criação do banco de dados, é necessário criar uma database *delivery* com um usuário de login: admin e senha: admin
+
 Caso deseje alterar, fazer alterações no arquivo application.properties
 
 URL das requisições da API:

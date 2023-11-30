@@ -1,7 +1,7 @@
 # delivery
 Dianome Delivery
 
-O software desenvolvido chamado de Dianome Delivery faz requisições para controlar entregadores. 
+O software desenvolvido chamado de Dianome Delivery faz requisições para controlar entregadores, solicitando informações como nome, cpf e peso do veículo. 
 
 Os atributos da entidade são: 
 

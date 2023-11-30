@@ -3,7 +3,11 @@ Dianome Delivery
 
 O software desenvolvido chamado de Dianome Delivery faz requisições para controlar entregadores. 
 
-Os atributos da entidade são: CPF, nome e capacidade do veículo.
+Os atributos da entidade são: 
+
+cpf;
+name;
+vehicleCapacity;
 
 Para subir o projeto, basta rodar o *DeliveryApplication.java*.
 
